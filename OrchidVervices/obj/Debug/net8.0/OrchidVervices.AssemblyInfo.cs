@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrchidVervices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79eae994772c9235a1bfd8b3ea13171d8852a32d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b1bf1913cd09ee664807e3829ba5afc75b29c01")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrchidVervices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrchidVervices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
