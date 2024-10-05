@@ -8,6 +8,7 @@ D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\Or
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.AssemblyInfoInputs.cache
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.AssemblyInfo.cs
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.csproj.CoreCompileInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.sourcelink.json
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.csproj.Up2Date
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.dll
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\refint\OrchidDAOs.dll

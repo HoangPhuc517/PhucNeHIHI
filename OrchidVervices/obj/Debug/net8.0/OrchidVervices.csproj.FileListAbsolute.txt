@@ -12,6 +12,7 @@ D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\OrchidVervices.AssemblyInfoInputs.cache
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\OrchidVervices.AssemblyInfo.cs
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\OrchidVervices.csproj.CoreCompileInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\OrchidVervices.sourcelink.json
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\OrchidVe.900736D6.Up2Date
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\OrchidVervices.dll
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidVervices\obj\Debug\net8.0\refint\OrchidVervices.dll

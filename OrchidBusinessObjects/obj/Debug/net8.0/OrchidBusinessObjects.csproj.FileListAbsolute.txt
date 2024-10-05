@@ -7,6 +7,7 @@ D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debu
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.AssemblyInfoInputs.cache
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.AssemblyInfo.cs
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.csproj.CoreCompileInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.sourcelink.json
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.dll
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\refint\OrchidBusinessObjects.dll
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.pdb

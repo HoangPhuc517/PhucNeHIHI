@@ -1919,7 +1919,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.5"
         },
         "runtime": {
-          "OrchidBusinessObjects.dll": {}
+          "OrchidBusinessObjects.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OrchidDAOs/1.0.0": {
@@ -1927,7 +1930,10 @@
           "OrchidBusinessObjects": "1.0.0"
         },
         "runtime": {
-          "OrchidDAOs.dll": {}
+          "OrchidDAOs.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OrchidRepositories/1.0.0": {
@@ -1935,7 +1941,10 @@
           "OrchidDAOs": "1.0.0"
         },
         "runtime": {
-          "OrchidRepositories.dll": {}
+          "OrchidRepositories.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OrchidVervices/1.0.0": {
@@ -1943,7 +1952,10 @@
           "OrchidRepositories": "1.0.0"
         },
         "runtime": {
-          "OrchidVervices.dll": {}
+          "OrchidVervices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

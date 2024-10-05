@@ -10,6 +10,7 @@ D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\n
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.AssemblyInfoInputs.cache
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.AssemblyInfo.cs
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.csproj.CoreCompileInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.sourcelink.json
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\OrchidRe.6773F9D7.Up2Date
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\OrchidRepositories.dll
 D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidRepositories\obj\Debug\net8.0\refint\OrchidRepositories.dll

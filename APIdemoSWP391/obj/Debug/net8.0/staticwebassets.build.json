@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "5ZI9ob+TwdBBbAq494ciGdec+PZGZm3gY96auyHTL7o=",
+  "Hash": "ol3jylFXhMYE0TOY+MgXGUGIySLCdHZ9chmiW18WcvA=",
   "Source": "APIdemoSWP391",
   "BasePath": "_content/APIdemoSWP391",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

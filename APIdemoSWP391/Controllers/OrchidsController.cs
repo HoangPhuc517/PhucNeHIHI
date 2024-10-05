@@ -91,5 +91,15 @@ namespace APIdemoSWP391.Controllers
             iOrchidService.DeleteOrchid(id);
             return NoContent();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Hello(string model)
+        {
+            if (model == null)
+            {
+                return BadRequest("Ngu Vãi Lồn!!!");
+            }
+            return Ok(model);
+        }
     }
 }

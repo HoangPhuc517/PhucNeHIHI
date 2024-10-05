@@ -564,7 +564,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.5"
         },
         "runtime": {
-          "OrchidBusinessObjects.dll": {}
+          "OrchidBusinessObjects.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OrchidDAOs/1.0.0": {
@@ -572,7 +575,10 @@
           "OrchidBusinessObjects": "1.0.0"
         },
         "runtime": {
-          "OrchidDAOs.dll": {}
+          "OrchidDAOs.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
