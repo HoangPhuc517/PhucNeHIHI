@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIdemoSWP391.props" />
+</Project>

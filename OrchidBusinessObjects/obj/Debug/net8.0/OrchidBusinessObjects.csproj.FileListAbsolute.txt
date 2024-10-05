@@ -1,0 +1,14 @@
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.deps.json
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.runtimeconfig.json
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\bin\Debug\net8.0\OrchidBusinessObjects.pdb
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.csproj.AssemblyReference.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.AssemblyInfoInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.AssemblyInfo.cs
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.csproj.CoreCompileInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\refint\OrchidBusinessObjects.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.pdb
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\OrchidBusinessObjects.genruntimeconfig.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidBusinessObjects\obj\Debug\net8.0\ref\OrchidBusinessObjects.dll

@@ -1,0 +1,15 @@
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\bin\Debug\net8.0\OrchidDAOs.deps.json
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\bin\Debug\net8.0\OrchidDAOs.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\bin\Debug\net8.0\OrchidDAOs.pdb
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\bin\Debug\net8.0\OrchidBusinessObjects.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\bin\Debug\net8.0\OrchidBusinessObjects.pdb
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.csproj.AssemblyReference.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.AssemblyInfoInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.AssemblyInfo.cs
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.csproj.CoreCompileInputs.cache
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.csproj.Up2Date
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\refint\OrchidDAOs.dll
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\OrchidDAOs.pdb
+D:\SU24\Learn FRAMEWORK\API\APIdemoSWP391Solotion\OrchidDAOs\obj\Debug\net8.0\ref\OrchidDAOs.dll
